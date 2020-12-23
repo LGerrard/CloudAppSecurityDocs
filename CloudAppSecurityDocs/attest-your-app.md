@@ -8,7 +8,7 @@ ms.topic: conceptual
 
 Microsoft Cloud App Security enables you to attest your app, so that you make sure that the compliance and security details we use to rate your app in our Cloud App Catalog are up to date.
 
-Whether your app is already listed in the Cloud App Catalog, or it's new, submit a [self-attestation questionnaire](https://go.microsoft.com/fwlink/?linkid=2106624). For details on the self-attestation process, contact casfeedback@microsoft.com.
+Whether your app is already listed in the Cloud App Catalog, or it's new, submit a [Publisher Attestation](https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation). For help with the Publisher Attestation process, contact appcert@microsoft.com.
 
 Follow the service attributes described below to successfully complete the submission of the questionnaire:
 
